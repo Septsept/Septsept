@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mohamed
 
-<!--
-**Septsept/Septsept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entrepreneur and IT expert specializing in data, software architecture and information systems optimization.
 
-Here are some ideas to get you started:
+I am the President of **LeafTech Studio**, a company dedicated to building eco-designed applications. Our mission is to help organizations create high-performance digital solutions while reducing their carbon footprint. We focus on optimizing software architectures and implementing GreenOps and Green IT practices, bringing together technical performance, digital sobriety and sustainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside my entrepreneurial work, I teach in higher education, where I share my expertise in data architecture and software development.
+
+## Areas of expertise
+
+- Data infrastructure and data pipeline orchestration
+- Data architecture: Data Warehousing & Data Mining
+- SQL and NoSQL databases
+- Web development and application architecture
+- Performance optimization and data systems design
+- Green IT and sustainable software design
+
+## What drives me
+
+I am passionate about information systems and data, with a particular interest in approaches for building scalable, high-performance and sustainable infrastructures.
+
+## Let's connect
+
+Always happy to talk about data, software architecture, Green IT and digital innovation.
